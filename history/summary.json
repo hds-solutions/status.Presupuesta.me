@@ -5,19 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging.presupuesta.me.ico",
     "slug": "presupuesta-me",
     "status": "up",
-    "uptime": "99.72%",
+    "uptime": "99.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 2143,
-    "timeDay": 2973,
-    "timeWeek": 2987,
-    "timeMonth": 2829,
-    "timeYear": 2564,
+    "time": 2145,
+    "timeDay": 3033,
+    "timeWeek": 3023,
+    "timeMonth": 2825,
+    "timeYear": 2565,
     "dailyMinutesDown": {
-      "2025-11-18": 127,
-      "2025-01-02": 30
+      "2025-11-18": 127
     }
   }
 ]
